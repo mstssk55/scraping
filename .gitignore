@@ -1,0 +1,10 @@
+# venv フォルダは要らない
+venv/
+
+__pycache__/
+
+build/
+
+dist/
+
+chromedriver
